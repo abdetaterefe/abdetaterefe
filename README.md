@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My Name is Abdeta Terefe and I'm software engineer currently learning in ASTU from Ethiopia 
+My Name is Abdeta Terefe and I'm software engineer student from Ethiopia 
 
 ## &#x1f4c8; GitHub Stats
 
